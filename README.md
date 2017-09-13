@@ -1,0 +1,2 @@
+# johnny-btc
+bitcoin mining
